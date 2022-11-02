@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me sahilprabhuofc@gmail.com
 
+<img src="https://github.com/SahilPrabhu/SahilPrabhu/blob/b072e3cbd56f53f204a924a7fecb31428df0c38a/Banner.png">
+
 [![@sahilprabhu's Holopin board](https://holopin.me/sahilprabhu)](https://holopin.io/@sahilprabhu)
 
 <!---
