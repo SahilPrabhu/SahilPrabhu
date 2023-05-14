@@ -1,5 +1,7 @@
 <h1 align="center">Hey there, My name is Sahil Prabhu</h1>
-<h3 align="center">Passionate Developer Exploring Tech</h3>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+passionate+Developer+exploring+Tech)](https://git.io/typing-svg)
+
 
 # 🌃 About Me:
 
