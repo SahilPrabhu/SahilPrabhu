@@ -4,7 +4,7 @@
 
 Im interested in ```computer architecture``` and ```low level programming```<br>
 
-Tech Stacks im familiar with include - ```SystemVerilog```, ```C```, ```Python``` and ```Cadence Virtuoso``` <br>
+Tech Stacks im familiar with include - ```SystemVerilog```, ```C```, ```Vivado``` and ```Cadence Virtuoso``` <br>
 
 Looking forward to collaborate on anything related to Digital design and Computer Architecture </strong>
 
